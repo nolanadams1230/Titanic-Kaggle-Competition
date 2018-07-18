@@ -3,8 +3,8 @@ My final score was 0.74162 or 74.2% accuracy.
 The competition can be seen at this [link](https://www.kaggle.com/c/titanic)
 
 Links to my work:
-- [Github]()
-- [Jupyter]()
+- [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/nolanadams1230/Titanic-Kaggle-Competition/blob/master/Titanic.ipynb)
+- [Github](https://github.com/nolanadams1230/Titanic-Kaggle-Competition/blob/master/Titanic.ipynb)
 
 
 ## Competition Description
